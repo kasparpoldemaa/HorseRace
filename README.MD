@@ -1,6 +1,6 @@
 # WELCOME TO MY HORSE BETTING SITE
 
-## Description
+## How to run
 
 1. This repository contains back-end (HorseRace) data.
 2. To try out my application, first you'll need to run back-end using HorseRaceApplication.java
