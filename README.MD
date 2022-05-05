@@ -5,7 +5,7 @@
 1. This repository contains back-end (HorseRace) data.
 2. To try out my application, first you'll need to run back-end using HorseRaceApplication.java
 3. Under resources folder there is mock data that will build database automatically after HorseRaceApplication.java has been launched.
-4. Once HorseRaceApplication.java is up and running, you can launch front-end.
+4. Once HorseRaceApplication.java is up and running, you can launch front-end (https://github.com/kasparpoldemaa/HorseRace-Front)
 
 ## Description
 
